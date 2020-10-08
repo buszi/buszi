@@ -2,7 +2,9 @@
 
 #### Newbie programmer currently focused on Kotlin programming language for Android platform :smile: (some Java skills too :sleeping:)
 
-## Currently looking for Android Developer Job!
+Now learning new Jetpack libraries. Currently working out Jetpack Compose and already I can't believe how easily is to build dynamic UI with it (even tho it's an Alpha version, some demo apps soon on my profile).
+
+## Currently looking for Android Developer Job! (contact me: kacper.wojciechowski08090@gmail.com)
 
 - Preferred place: **Trójmiasto (Gdańsk, Sopot, Gdynia) Poland**, but ready for relocation or remote job.
 - Experience: none :disappointed:, but I'm ambitious and I learn very quickly, so I hope I can contribute your projects and become valuable for your company soon :wink:.
