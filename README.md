@@ -13,8 +13,9 @@
 - **Dependency Injection:** - Dagger Hilt, Koin
 - **Data:** - ROOM, Retrofit, Glide, DataStore
 - **Testing** - JUnit, Espresso, Mockito, Truth
-- **UI** - Material Design, Jetpack Compose(demo soon), Animations
-- **Other** - Git, Coroutines, Firebase, Services
+- **UI** - Material Design, Jetpack Compose(demo soon), Animations, Motion Layout
+- **Google SDKs** - Firebase, Maps, Ads
+- **Other** - Git, Coroutines, Services, Notifications, Work Manager, Broadcast Receivers
 
 Also some basic skills in: **Python**(OpenCV, Tensorflow/Keras), **C++**, **C#**, **HTML** :+1:
 
@@ -42,4 +43,4 @@ Learning programming for 6 years already. Started with C++ and simple console pr
 Automation and Robotics where I discovered Java, C# and HTML. At university I gained some skills in solo and group programming projects. One of them was simple Android app that sends view from camera to python server on PC via sockets for image processing purposes. I joined Android app crew. Learning was not that easy at the begging, but when I gained some skills to deal with first widgets, it was super exciting that you get product that can be actually useful for everyone in the age of smartphones. Now I'm on third grade of studies, but in reality I'm spending most of free time coding new apps and expanding my skills and tech stack in Android. I'm really determined to start a real job as Kotlin Android Developer, expand my skills and work on real commercial projects full-time. I'd like to expand my stack with iOS but I can't really afford Apple devices that are necessary to run a project.
 
 #### Hobbies
-I love esports (mainly LoL) and I'd love to attend esports events. Also I'm listening a lot of electro-house music.
+I love esports (mainly LoL) and I'd love to attend esports events. Watching every ski jumping contest. Also I'm listening a lot of electro-house music.
