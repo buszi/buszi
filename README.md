@@ -1,8 +1,8 @@
 # Kacper Wojciechowski 👋
 
-#### Newbie programmer focused on Kotlin programming language for Android platform :smile:
+#### Programmer focused on Kotlin programming language for Android platform :smile:
 
-## Currently working for Netguru as Junior Android Developer 😊
+## Currently working for Netguru as Android Developer 😊
 
 **Tech stack :muscle::**
 - **Architecture:** - MVVM, Single Activity pattern, Navigation Component with SafeArgs, Data/View binding, Clean
