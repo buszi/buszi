@@ -2,7 +2,7 @@
 
 #### Developer focused on Kotlin programming language for Android OS :smile:
 
-## Currently working for Netguru as Android Developer 😊
+## Currently working as Android Developer 😊
 
 **Tech stack :muscle::**
 - **Architecture:** - MVVM, MVI, Single Activity pattern, Navigation Component with SafeArgs, Data/View binding, Clean, Multimodule
