@@ -10,8 +10,8 @@
 - **Data:** - ROOM, Retrofit, OkHttp, SP/DataStore, Glide, Coil, Serialization (Kotlin Serialization/Moshi)
 - **Testing** - JUnit, Espresso, Kakao, UI Automator, Mockito, Mockk, Truth
 - **UI** - Material Design, Jetpack Compose, Animations, Lottie, Motion Layout
-- **Google SDKs** - Firebase, Maps, Ads, Crashlytics, Analytics, Remote Config, Messaging
-- **CI/CD** - Bitrise
+- **Google SDKs** - Firebase, Maps, Ads, Crashlytics, Analytics, Remote Config, Messaging, Distribution
+- **CI/CD** - Bitrise, Github Actions
 - **Other** - Coroutines, Flow, LiveData, Rx, Services, Notifications, Leak Canary, Accessibility
 
 Also some basic skills in: **Python**(OpenCV, Tensorflow/Keras), **C++**, **C#**, **HTML** :+1:
