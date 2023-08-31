@@ -1,5 +1,8 @@
 # Kacper Wojciechowski 👋
 
+- [LinkedIn](https://www.linkedin.com/in/kacper-wojciechowski-7283561b4/)
+- [Medium](https://medium.com/@buszi0809)
+
 #### Developer focused on Kotlin programming language for Android OS :smile:
 
 **Tech stack :muscle::**
