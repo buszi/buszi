@@ -2,6 +2,7 @@
 
 - [LinkedIn](https://www.linkedin.com/in/kacper-wojciechowski-7283561b4/)
 - [Medium](https://medium.com/@buszi0809)
+- [Billz](https://play.google.com/store/apps/details?id=com.kwdev.billz) - my Android app written 100% in Compose available on Play Store
 
 #### Developer focused on Kotlin programming language for Android OS :smile:
 
@@ -18,7 +19,7 @@
 
 ## About me
 
-Starting from scratch with C++, growing up with Java/Python, and then fallen in love with Kotlin + Android. As soon as I got along with Kotlin I didn't write a single line of Java. It was so great feeling to create apps that are scalable, easy to read, and will be actually usable by millions of users on daily basis.
+Starting from scratch with C++, growing up with Java/Python, and then falling in love with Kotlin + Android. As soon as I got along with Kotlin I didn't write a single line of Java. It was a great feeling to create scalable apps that are easy to read and will be usable by millions of users daily.
 
 #### Hobbies
-I love esports (mainly LoL). Watching and reading a lot about mobile technology blogs. Also I'm listening a lot of electro-house music and reading/watching sci-fi and fantasy.
+I love esports (mainly LoL). I watch and read a lot about mobile technology blogs. Also, I'm listening to a lot of electro-house music and reading/watching sci-fi and fantasy.
