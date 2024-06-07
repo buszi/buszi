@@ -5,7 +5,7 @@
 - [Medium](https://medium.com/@buszi0809)
 - [Billz](https://play.google.com/store/apps/details?id=com.kwdev.billz) - my Android app written 100% in Compose available on Play Store
 
-#### Developer focused on Kotlin programming language for Android OS, but also interested in Kotlin Multiplatform :smile:
+#### Senior Developer focused on Kotlin programming language for Android OS, but also interested in Kotlin Multiplatform :smile:
 
 **Tech stack :muscle::**
 - **Architecture:** - MVVM, MVI, Single Activity pattern, Navigation Component with SafeArgs, Data/View binding, Clean, Multimodule
