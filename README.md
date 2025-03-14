@@ -2,7 +2,7 @@
 
 - [LinkedIn](https://www.linkedin.com/in/kacper-wojciechowski-7283561b4/)
 - [Twitter/X](https://x.com/KWAndroidDev)
-- [Medium](https://medium.com/@buszi0809)
+- [Medium](https://medium.com/@kacper.wojciechowski)
 
 #### Senior Developer focused on Kotlin programming language for Android OS, but also interested in Kotlin Multiplatform :smile:
 
