@@ -10,7 +10,7 @@
 - **Architecture:** - MVVM, MVI, Single Activity pattern, Navigation Component with SafeArgs, Data/View binding, Clean, Multimodule
 - **Dependency Injection:** - Dagger, Hilt, Koin
 - **Async** - Coroutines, Flow, LiveData, Rx
-- **Data:** - ROOM, Retrofit, OkHttp, SP/DataStore, Glide, Coil, Kotlin Serialization, Moshi
+- **Data:** - ROOM, Retrofit, Ktor, OkHttp, SP/DataStore, Glide, Coil, Kotlin Serialization, Moshi
 - **Testing** - JUnit, Espresso, Kakao, UI Automator, Mockito, Mockk, Truth, Turbine, Coroutines Testing
 - **UI** - Material Design (2 & 3), Jetpack Compose, Animations, Lottie, Motion Layout
 - **Google SDKs** - Firebase, Maps, Ads, Crashlytics, Analytics, Remote Config, Messaging, Distribution
